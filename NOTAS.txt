@@ -20,8 +20,8 @@ Entrar a git hub -> nuevo repositorio
 Actualizar de local a git hub
 
 - git add .
-- git commit m- "comentartio"
-- git push
+- git commit -m "comentario"
+- git push origin master
 
 Actualizar de git a local
 
