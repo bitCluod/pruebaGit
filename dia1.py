@@ -1,8 +1,10 @@
 
-print("Hola mundo!")
+def saludo():
+    print("Hola mundo!!!")
 
-print("Esta es mi primera modificación al archivo original")
+def suma(a, b):
+    res = a + b
+    return res
 
-print("Esta es una actualización desde gitHub")
-
-print("El panda es puto")
+print(suma(5, 5))
+saludo()

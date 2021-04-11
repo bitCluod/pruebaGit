@@ -31,7 +31,7 @@ Actualizar de git a local
 
 Tags Especificar versiones
 
-- git tag "Nombre de version" -m "comentario"  (08-04-2021v1)
+- git tag "Nombre de version" -m "comentario" (08-04-2021v1)
 - git push --tags
 
 Verificar los commit
@@ -61,6 +61,7 @@ moverse de rama
 
 - git checkout (nombre de la rama a la que se mueve "No debe llevar ni parentesis ni comillas dobles")
 - git branch (para confirmar la ubicaciond de la rama)
+- git branch -d "nombre de la rama a eliminar"
 
 APARTIR DE AQUI, SE PUEDEN UTILIZAR LOS COMANDOS PARA AGREGAR VERSIONES
 
